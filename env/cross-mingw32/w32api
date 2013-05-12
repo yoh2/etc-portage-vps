@@ -1,0 +1,10 @@
+SYMLINK_LIB=no
+
+CFLAGS_default=''
+CHOST_default=''
+CTARGET_default='mingw32'
+LDFLAGS_default=''
+LIBDIR_default='lib'
+ABI='default'
+MULTILIB_ABIS='default'
+DEFAULT_ABI='default'

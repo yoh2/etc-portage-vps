@@ -1,0 +1,9 @@
+=sys-apps/tomoyo-tools-2.5*	~amd64
+sys-devel/llvm			~amd64
+sys-devel/clang			~amd64
+
+
+#required by miniupnpd (argument)
+=net-misc/miniupnpd-1.7_pre20120509 ~amd64
+#required by miniupnpd (argument)
+=net-misc/miniupnpd-1.7 ~amd64

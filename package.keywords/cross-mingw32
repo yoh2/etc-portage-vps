@@ -1,0 +1,6 @@
+cross-mingw32/binutils * -amd64 -~amd64
+cross-mingw32/gcc * -amd64 -~amd64
+cross-mingw32/w32api * -amd64 -~amd64
+cross-mingw32/mingw-runtime * -amd64 -~amd64
+cross-mingw32/gdb * ~* -amd64 -~amd64
+cross-mingw32/insight * ~* -amd64 -~amd64

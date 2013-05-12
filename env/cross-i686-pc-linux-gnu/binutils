@@ -1,0 +1,10 @@
+SYMLINK_LIB=no
+
+CFLAGS_default=''
+CHOST_default=''
+CTARGET_default='i686-pc-linux-gnu'
+LDFLAGS_default=''
+LIBDIR_default='lib'
+ABI='default'
+MULTILIB_ABIS='default'
+DEFAULT_ABI='default'

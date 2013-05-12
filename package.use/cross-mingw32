@@ -1,0 +1,6 @@
+cross-mingw32/gdb sys-devel gdb
+cross-mingw32/insight dev-util insight
+cross-mingw32/binutils -hardened -selinux -multilib
+cross-mingw32/w32api -hardened -selinux -multilib
+cross-mingw32/mingw-runtime -hardened -selinux -multilib
+cross-mingw32/gcc -hardened -selinux -boundschecking -d -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -multilib

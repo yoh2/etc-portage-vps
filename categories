@@ -1,0 +1,4 @@
+cross-i686-pc-linux-gnu
+cross-powerpc64-unknown-linux-gnu
+cross-powerpc-unknown-linux-gnu
+cross-mingw32
