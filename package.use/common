@@ -4,6 +4,7 @@ app-portage/layman		bazaar cvs darcs git mercurial subversion
 
 net-analyzer/wireshark		adns ares gcrypt geoip kerberos portaudio smi
 net-firewall/iptables		netlink
+net-misc/iperf			threads
 
 sys-apps/busybox		static
 
