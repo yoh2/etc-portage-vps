@@ -8,6 +8,8 @@ net-misc/iperf			threads
 
 sys-apps/busybox		static
 
+sys-devel/llvm			clang
+
 cross-i686-pc-linux-gnu/gdb sys-devel gdb
 cross-i686-pc-linux-gnu/insight dev-util insight
 cross-i686-pc-linux-gnu/binutils -selinux -multilib
