@@ -1,3 +1,5 @@
+=dev-vcs/darcs-2.8.4		~amd64
+
 =sys-apps/tomoyo-tools-2.5*	~amd64
 sys-devel/llvm			~amd64
 sys-devel/clang			~amd64
